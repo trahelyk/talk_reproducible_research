@@ -3,19 +3,36 @@ title: "Reproducible Research"
 date: "03 May 2017"
 author: Kyle Hart (hartky@ohsu.edu)
 output:
-  html_document:
-    toc: true
-    theme: simplex
+	ioslides_presentation
 ---
 
 # Kyle who?
 
+<img src="gfx/me.jpg" alt="me." style="width: 200px;"/>
 
-
-## (with applications in R)
+* MS in Biostatistics from OHSU in June 2014
+* 2014 – 2016: Statistician at OHSU Department of Surgery
+* 2013 – 2014: Data manager at the VA Portland Health Care System
+* 2004 – 2013: Data manager in industry
 
 ---
-This talk will focus on applications in R, because implementations in SAS and Stata are clunky and immature and SPSS, as far as I can tell, isn't even really trying. Also, because I use R and I think it's nifty. 
+	
+# Why I act this way
+	
+* I've been writing code since I was 8; I see all this through the eyes of a programmer.
+* I'm deeply committed to R.
+* I'm cautiously optimisitc about the Hadley Wickham/tidyverse/RStudio movement.
+* It's all about literatre programming.
+
+---
+
+# (with applications in R)
+
+---
+This talk will focus on applications in R. 
+* I think implementations in SAS and Stata are clunky and immature. 
+* SPSS, as far as I can tell, isn't even really trying. 
+* Also, because I use R and I think it's nifty. 
 
 ---
 

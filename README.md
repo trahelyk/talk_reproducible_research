@@ -10,7 +10,7 @@ output:
 
 # Kyle who?
 
-<img src="gfx/me.jpg" alt="me." width=200/>
+<img src="gfx/me.jpg" alt="me." width="200px" height="200px"/>
 
 
 * MS in Biostatistics from OHSU in June 2014

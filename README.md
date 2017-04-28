@@ -27,19 +27,11 @@ output:
 * I'm cautiously optimisitc about the Hadley Wickham/tidyverse/RStudio movement.
 * It's all about literatre programming.
 
-\ 
-\ 
-\ 
-\ 
-\ 
 
-
-
----
+=====
 
 # (with applications in R)
 
----
 This talk will focus on applications in R. 
 * I think implementations in SAS and Stata are clunky and immature. 
 * SPSS, as far as I can tell, isn't even really trying. 

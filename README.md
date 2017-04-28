@@ -10,7 +10,8 @@ output:
 
 # Kyle who?
 
-<img src="gfx/me.jpg" alt="me." style="width: 200px;"/>
+<img src="gfx/me.jpg" alt="me." width=200/>
+
 
 * MS in Biostatistics from OHSU in June 2014
 * 2014 – 2016: Statistician at OHSU Department of Surgery

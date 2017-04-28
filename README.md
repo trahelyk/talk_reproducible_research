@@ -27,9 +27,9 @@ output:
 * I'm cautiously optimisitc about the Hadley Wickham/tidyverse/RStudio movement.
 * It's all about literatre programming.
 
-
-
-
+\
+\
+\
 
 
 

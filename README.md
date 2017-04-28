@@ -2,7 +2,9 @@
 title: "Reproducible Research"
 date: "03 May 2017"
 author: Kyle Hart (hartky@ohsu.edu)
-output:	ioslides_presentation
+output:
+  ioslides_presentation:
+    widescreen: true
 ---
 
 # Kyle who?

@@ -10,7 +10,7 @@ output:
 
 # Kyle who?
 
-<img src="gfx/me.jpg" alt="me." width="200px" height="200px"/>
+<img src="gfx/me.jpg" alt="me." width="300px"/>
 
 
 * MS in Biostatistics from OHSU in June 2014
@@ -26,6 +26,15 @@ output:
 * I'm deeply committed to R.
 * I'm cautiously optimisitc about the Hadley Wickham/tidyverse/RStudio movement.
 * It's all about literatre programming.
+
+
+
+
+
+
+
+
+
 
 ---
 

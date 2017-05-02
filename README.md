@@ -319,5 +319,5 @@ https://rstudio.github.io/packrat/
 * Ben Chan's analytic workflow for using Git on OHSU's Exacloud: https://github.com/benjamin-chan/workflow
 
 ## Thanks
-I borrowed the concept for the workflow figures from Ben Chan, Stephanie Renfro, and Thomas Meath at the Center for Health Systems Effectiveness (CHSE). They gave a talk on reproducible research with knitr on July 22, 2015. 
+I borrowed the concept for the workflow figures from Ben Chan, et al at the Center for Health Systems Effectiveness (CHSE). They gave a talk on reproducible research with knitr on July 22, 2015. 
 

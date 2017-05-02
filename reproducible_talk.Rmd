@@ -106,14 +106,14 @@ You could get hit by a bus.
 <img src="gfx/workflow2.png" alt="Reproducible workflow" width="700px"/>
 </div>
 
-## Minimum components of a reproducible workflow
+## Minimum components of a reproducible project
 * Data
 * Code
 * Software (including versions)
 * Presentation (manuscript, slide deck, or whatever)
 * Documentation that explains how all the pieces are connected
 	
-## Tools
+## Barebones tools
   * Data:
     + X Drive
     + Data dictionary 
@@ -122,7 +122,7 @@ You could get hit by a bus.
         + Names and definitions of data columns
         + Value labels and coding conventions for categorical variables
         
-## Tools
+## Barebones tools
   * Code:
     + R
   *	Software:
@@ -130,7 +130,7 @@ You could get hit by a bus.
     + R packages
     + Code comments or Word document to keep track of versions
     
-## Tools    
+## Barebones tools
   * Presentation:
     + MS Word
     + MS Powerpoint
@@ -139,15 +139,7 @@ You could get hit by a bus.
     + MS Word
     + Code comments
 
-## More ideal components of a reproducible workflow
-* Data
-* Code
-* Software (including versions)
-* Presentation (manuscript, slide deck, or whatever)
-* Documentation that explains how all the pieces are connected
-* An elegant way to package all of this
-	
-## Tools
+## Tools that integrate reproducibility into workflow
 * Data:
     + Git/GitHub
     + Make files and R make-like files
@@ -157,18 +149,15 @@ You could get hit by a bus.
     + tidyverse
     + Master script
 	  
-## Tools
+## Tools that integrate reproducibility into workflow
 * Software:
 	  + R
 	  + packrat
-* Presentation:
+* Presentation and documentation:
 	  + knitr
 	  + RMarkdown
 	  + LaTeX
-* Documentation:
-	  + knitr
-	  + RMarkdown
-    + Git/GitHub
+	  + Git/GitHub
 
 ## A literate document
 
